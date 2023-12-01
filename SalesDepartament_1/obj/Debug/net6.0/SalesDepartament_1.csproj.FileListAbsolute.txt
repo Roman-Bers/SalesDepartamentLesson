@@ -1,0 +1,15 @@
+C:\Users\alexx\source\repos\SalesDepartamentLesson\SalesDepartament_1\bin\Debug\net6.0\SalesDepartament_1.exe
+C:\Users\alexx\source\repos\SalesDepartamentLesson\SalesDepartament_1\bin\Debug\net6.0\SalesDepartament_1.deps.json
+C:\Users\alexx\source\repos\SalesDepartamentLesson\SalesDepartament_1\bin\Debug\net6.0\SalesDepartament_1.runtimeconfig.json
+C:\Users\alexx\source\repos\SalesDepartamentLesson\SalesDepartament_1\bin\Debug\net6.0\SalesDepartament_1.dll
+C:\Users\alexx\source\repos\SalesDepartamentLesson\SalesDepartament_1\bin\Debug\net6.0\SalesDepartament_1.pdb
+C:\Users\alexx\source\repos\SalesDepartamentLesson\SalesDepartament_1\obj\Debug\net6.0\SalesDepartament_1.csproj.AssemblyReference.cache
+C:\Users\alexx\source\repos\SalesDepartamentLesson\SalesDepartament_1\obj\Debug\net6.0\SalesDepartament_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexx\source\repos\SalesDepartamentLesson\SalesDepartament_1\obj\Debug\net6.0\SalesDepartament_1.AssemblyInfoInputs.cache
+C:\Users\alexx\source\repos\SalesDepartamentLesson\SalesDepartament_1\obj\Debug\net6.0\SalesDepartament_1.AssemblyInfo.cs
+C:\Users\alexx\source\repos\SalesDepartamentLesson\SalesDepartament_1\obj\Debug\net6.0\SalesDepartament_1.csproj.CoreCompileInputs.cache
+C:\Users\alexx\source\repos\SalesDepartamentLesson\SalesDepartament_1\obj\Debug\net6.0\SalesDepartament_1.dll
+C:\Users\alexx\source\repos\SalesDepartamentLesson\SalesDepartament_1\obj\Debug\net6.0\refint\SalesDepartament_1.dll
+C:\Users\alexx\source\repos\SalesDepartamentLesson\SalesDepartament_1\obj\Debug\net6.0\SalesDepartament_1.pdb
+C:\Users\alexx\source\repos\SalesDepartamentLesson\SalesDepartament_1\obj\Debug\net6.0\SalesDepartament_1.genruntimeconfig.cache
+C:\Users\alexx\source\repos\SalesDepartamentLesson\SalesDepartament_1\obj\Debug\net6.0\ref\SalesDepartament_1.dll

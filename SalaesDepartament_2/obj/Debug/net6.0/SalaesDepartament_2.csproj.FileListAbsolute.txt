@@ -1,0 +1,15 @@
+C:\Users\alexx\source\repos\SalesDepartamentLesson\SalaesDepartament_2\bin\Debug\net6.0\SalaesDepartament_2.exe
+C:\Users\alexx\source\repos\SalesDepartamentLesson\SalaesDepartament_2\bin\Debug\net6.0\SalaesDepartament_2.deps.json
+C:\Users\alexx\source\repos\SalesDepartamentLesson\SalaesDepartament_2\bin\Debug\net6.0\SalaesDepartament_2.runtimeconfig.json
+C:\Users\alexx\source\repos\SalesDepartamentLesson\SalaesDepartament_2\bin\Debug\net6.0\SalaesDepartament_2.dll
+C:\Users\alexx\source\repos\SalesDepartamentLesson\SalaesDepartament_2\bin\Debug\net6.0\SalaesDepartament_2.pdb
+C:\Users\alexx\source\repos\SalesDepartamentLesson\SalaesDepartament_2\obj\Debug\net6.0\SalaesDepartament_2.csproj.AssemblyReference.cache
+C:\Users\alexx\source\repos\SalesDepartamentLesson\SalaesDepartament_2\obj\Debug\net6.0\SalaesDepartament_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexx\source\repos\SalesDepartamentLesson\SalaesDepartament_2\obj\Debug\net6.0\SalaesDepartament_2.AssemblyInfoInputs.cache
+C:\Users\alexx\source\repos\SalesDepartamentLesson\SalaesDepartament_2\obj\Debug\net6.0\SalaesDepartament_2.AssemblyInfo.cs
+C:\Users\alexx\source\repos\SalesDepartamentLesson\SalaesDepartament_2\obj\Debug\net6.0\SalaesDepartament_2.csproj.CoreCompileInputs.cache
+C:\Users\alexx\source\repos\SalesDepartamentLesson\SalaesDepartament_2\obj\Debug\net6.0\SalaesDepartament_2.dll
+C:\Users\alexx\source\repos\SalesDepartamentLesson\SalaesDepartament_2\obj\Debug\net6.0\refint\SalaesDepartament_2.dll
+C:\Users\alexx\source\repos\SalesDepartamentLesson\SalaesDepartament_2\obj\Debug\net6.0\SalaesDepartament_2.pdb
+C:\Users\alexx\source\repos\SalesDepartamentLesson\SalaesDepartament_2\obj\Debug\net6.0\SalaesDepartament_2.genruntimeconfig.cache
+C:\Users\alexx\source\repos\SalesDepartamentLesson\SalaesDepartament_2\obj\Debug\net6.0\ref\SalaesDepartament_2.dll
